@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <>
             <div>
-                Home
+                <label>Home </label>
                 <FontAwesomeIcon className={`${styles.icon_computer}`} icon={faComputer} />
             </div>
         </>
